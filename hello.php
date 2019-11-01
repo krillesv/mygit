@@ -6,5 +6,7 @@
 <p>
 <?php echo "Success"; ?>
 </p>
+<p>Changes: 1</p>
+
 </body>
 </html>
